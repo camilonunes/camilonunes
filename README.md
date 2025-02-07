@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Camilo Nunes
 
-<!--
-**camilonunes/camilonunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Olá, eu me chamo Camilo Nunes, sou formado em direito pelo Instituto Metodista Granbery JF/MG, e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Vianna Júnior JF/MG.
+Sou apaixonado por tecnologia e entusiasta do seu uso para facilitar, ajudar e agregar pessoas, seja nas tarefas do dia a dia, na conexão entre pessoas, nas atividades laborais, ou no entretenimento
+e diversão, entre tantas outras possibilidades que a tecnologia pode nos proporcionar!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+
+          
+          
+
+
+          
+          
+          
+          
+          
